@@ -6,52 +6,52 @@ Subject_ID:
 
    Int: 1 - 30
 
-Activity_Name:
+Activity:
 
    Factor: 6 levels
-*      WALKING
-*      WALKING_UPSTAIRS
-*      WALKING_DOWNSTAIRS
-*      SITTING
-*      STANDING
-*      LAYING
+*     WALKING
+*     WALKING_UPSTAIRS
+*     WALKING_DOWNSTAIRS
+*     SITTING
+*     STANDING
+*     LAYING
 
-Measure_Type:
+Feature:
 
-   Character
-*      tBodyAcc
-*      tGravityAcc
-*      tBodyAccJerk
-*      tBodyGyro
-*      tBodyGyroJerk
-*      tBodyAccMag
-*      tGravityAccMag
-*      tBodyAccJerkMag
-*      tBodyGyroMag
-*      tBodyGyroJerkMag
-*      fBodyAcc
-*      fBodyAccJerk
-*      fBodyGyro
-*      fBodyAccMag
-*      fBodyAccJerkMag
-*      fBodyGyroMag
-*      fBodyGyroJerkMag 
+   Factor: 17 levels
+*     tBodyAcc
+*     tGravityAcc
+*     tBodyAccJerk
+*     tBodyGyro
+*     tBodyGyroJerk
+*     tBodyAccMag
+*     tGravityAccMag
+*     tBodyAccJerkMag
+*     tBodyGyroMag
+*     tBodyGyroJerkMag
+*     fBodyAcc
+*     fBodyAccJerk
+*     fBodyGyro
+*     fBodyAccMag
+*     fBodyAccJerkMag
+*     fBodyGyroMag
+*     fBodyGyroJerkMag 
 
 Axis:
 
-   Character
-*      x
-*      Y
-*      Z
-*      Empty
+   Factor: 4 levels
+*     x
+*     Y
+*     Z
+*     Empty
 
 Average
 
-   Average of the mean
+   Average of the mean of the measurements grouped by subject, activity, feature, and axis.
 
 Average_Std
 
-   Average of the standard deviation
+   Average of the standard deviation of the measurements grouped by subject, activity, feature, and axis.
 
 
 
