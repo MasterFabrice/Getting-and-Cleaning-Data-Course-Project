@@ -3,49 +3,55 @@
 The dataset contains the following variables:
 
 Subject_ID:
- Int: 1 - 30
+
+    Int: 1 - 30
 
 Activity_Name:
- Factor: 6 levels
-      WALKING
-      WALKING_UPSTAIRS
-      WALKING_DOWNSTAIRS
-      SITTING
-      STANDING
-      LAYING
+
+    Factor: 6 levels
+*      WALKING
+*      WALKING_UPSTAIRS
+*      WALKING_DOWNSTAIRS
+*      SITTING
+*      STANDING
+*      LAYING
 
 Measure_Type:
-  Charactere
-      tBodyAcc
-      tGravityAcc
-      tBodyAccJerk
-      tBodyGyro
-      tBodyGyroJerk
-      tBodyAccMag
-      tGravityAccMag
-      tBodyAccJerkMag
-      tBodyGyroMag
-      tBodyGyroJerkMag
-      fBodyAcc
-      fBodyAccJerk
-      fBodyGyro
-      fBodyAccMag
-      fBodyAccJerkMag
-      fBodyGyroMag
-      fBodyGyroJerkMag 
+
+    Character
+*      tBodyAcc
+*      tGravityAcc
+*      tBodyAccJerk
+*      tBodyGyro
+*      tBodyGyroJerk
+*      tBodyAccMag
+*      tGravityAccMag
+*      tBodyAccJerkMag
+*      tBodyGyroMag
+*      tBodyGyroJerkMag
+*      fBodyAcc
+*      fBodyAccJerk
+*      fBodyGyro
+*      fBodyAccMag
+*      fBodyAccJerkMag
+*      fBodyGyroMag
+*      fBodyGyroJerkMag 
 
 Axis:
-  Charactere
-      x
-      Y
-      Z
-      Empty
+
+    Character
+*      x
+*      Y
+*      Z
+*      Empty
 
 Average
-     Average of the mean
+
+    Average of the mean
 
 Average_Std
-     Average of the standard deviation
+
+    Average of the standard deviation
 
 
 
