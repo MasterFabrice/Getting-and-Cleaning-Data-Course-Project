@@ -4,11 +4,11 @@ The dataset contains the following variables:
 
 Subject_ID:
 
-    Int: 1 - 30
+   Int: 1 - 30
 
 Activity_Name:
 
-    Factor: 6 levels
+   Factor: 6 levels
 *      WALKING
 *      WALKING_UPSTAIRS
 *      WALKING_DOWNSTAIRS
@@ -18,7 +18,7 @@ Activity_Name:
 
 Measure_Type:
 
-    Character
+   Character
 *      tBodyAcc
 *      tGravityAcc
 *      tBodyAccJerk
@@ -39,7 +39,7 @@ Measure_Type:
 
 Axis:
 
-    Character
+   Character
 *      x
 *      Y
 *      Z
@@ -47,11 +47,11 @@ Axis:
 
 Average
 
-    Average of the mean
+   Average of the mean
 
 Average_Std
 
-    Average of the standard deviation
+   Average of the standard deviation
 
 
 
