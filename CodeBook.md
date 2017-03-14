@@ -1,6 +1,6 @@
 # Cousera Getting and Cleaning Data - Course Project tidy Dataset 
 
-The dataset as the following variables:
+The dataset contains the following variables:
 
 Subject_ID:
  Int: 1 - 30
